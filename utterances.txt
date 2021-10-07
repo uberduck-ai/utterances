@@ -5,11 +5,11 @@ Alright we're here just sitting in the car. I want you to show me if you can get
 Aw yeah, this is happening.
 Can you tell me how to get to Sesame Street?
 Come here, so I can slap you with my face.
-Darth Plagueis was a dark lord of the Sith, so powerful and so wise
+Darth Plagueis was a dark lord of the Sith, so powerful and so wise.
 Did you ever hear the Tragedy of Darth Plagueis the wise?
 Do the Mario! Swing your arms from side to side, Come on, it's time to go!
 Do the Mario! Take one step, and then again. Let's do the Mario, all together now!
-Don't stop believing
+Don't stop believing.
 Don't turn me into a marketable plushie!
 Excuse me sir, but it appears that a package has arrived in the mailbox as of recent.
 Go back. I want to be monkey!
@@ -20,7 +20,7 @@ He could use the force to influence the midichlorians to create life.
 Hey relax guy! I'm just your average joe! Take a rest!
 I am speaking straight opinions, and that's all that matters.
 I am the Milkman. My milk is delicious.
-I get home every day by 8 Pee Emm at the latest.
+I get home every day by eight P M at the latest.
 I like that song. Let it play.
 I started calling and I am hungry to the bone.
 I swear the toilet was full of guacamole when I bought it!
@@ -41,10 +41,9 @@ Looks like your the first one here! Use the people tab on your watch to invite y
 Minecraft is honestly a block game.
 My friends on TikTok send me memes, on Discord it's memes.
 My house is in the northeast section of Morioh, where all the villas are, and I am not married.
-My name is Yoshi kagay Kira. I'm 33 years old.
-Never gonna give you up
-Never gonna let you down
-No, This Is Patrick.
+My name is Yoshi kagay Kira. I'm thirty three years old.
+Never gonna give you up, never gonna let you down.
+No, this is Patrick.
 Now that I'm grown I eat five dozen eggs, so I'm roughly the size of a barge!
 Now that's something you don't see every day!
 Now the animators are gonna have to draw all this fire!
@@ -52,7 +51,7 @@ Oh my god! They killed Kenny!
 Oh my gosh. Neemos swimming out to sea!
 Or as I've recently taken to calling it, Gee enn you plus Linux.
 Please call Stella. Ask her to bring these things with her from the store: Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
-Remember to run in a straight line, and run as long as possible
+Remember to run in a straight line, and run as long as possible.
 So while I wait, I start to sing the song of my people I know it since I was a baby.
 Somebody once told me the world is gonna roll me. I ain't the sharpest tool in the shed.
 Space is big. Really big. You just won't believe how vastly hugely mind-bogglingly big it is. I mean, you may think it's a long way down the road to the chemist, but that's just peanuts to space.
@@ -61,8 +60,8 @@ Stop posting about Among Us, I'm tired of seeing it!
 Thank you thank you very much baby. Thank you very much That was funny stuff.
 That wasn't flying. That was falling with style.
 That's Mama Luigi to you Mario!
-That's funny, Francis. Why don't you take your mustache, your little vest and your chaps and go find yourself a parade?jj/
-The 20 meter pacer test will begin in 30 seconds.
+That's funny, Francis. Why don't you take your mustache, your little vest and your chaps and go find yourself a parade?
+The twenty meter pacer test will begin in thirty seconds.
 The FitnessGram Pacer Test is a multistage aerobic capacity test that progressively gets more difficult as it continues.
 The mitochondria is the powerhouse of the cell.
 The quick brown fox jumps over the lazy dog.
@@ -70,7 +69,7 @@ The running speed starts slowly, but gets faster each minute after you hear this
 The second time you fail to complete a lap before the sound, your test is over.
 The test will begin on the word start. On your mark, get ready, start.
 The things I do for love!
-The underlying feature of Toki Pona is minimalism. It focuses on simple universal concepts, making use of very little to express the most. The language is isolating and has 14 phonemes and 137 essential root words, as well as a number of less-used words.
+The underlying feature of Toki Pona is minimalism. It focuses on simple universal concepts, making use of very little to express the most. The language is isolating and has fourteen phonemes and one hundred and thirty seven essential root words, as well as a number of less-used words.
 The word I'm searching for, I can't say because there's preschool toys present.
 There is, according to legend, a boiling pot of gold at one end. People look, but no one ever finds it.
 There's no crying. There's no crying in baseball.
@@ -95,3 +94,8 @@ You know what they say, all toasters toast toast.
 You know, what can I say? I die hard.
 You should really stop pressing this button.
 You're going to LOVE ME!
+{EH1 F EH1 F} {EH1 M P EH2 G} is a very fast {V IH1 D IY0 OW0} and {AA1 D IY0 OW2} converter that can also grab from a {L AY1 V} {AA1 D IY0 OW2} {V IH1 D IY0 OW0} source.
+The {T AA1 K OW0 T R AA1 N} 2 and {W EY1 V G L OW1} model form a text-to-speech system that {EH0 N EY1 B AH0 L Z} the user to synthesize a natural sounding speech from raw transcripts without any additional prosody information.
+The {EH1 N V IH1 D IY0 AH0} {K UW1 D AH0} {T UW1 L K IH1 T} {P R AH0 V AY1 D Z} a development environment for creating high performance {JH IY1} {P IY1} {Y UW1} accelerated applications.
+With the {K UW1 D AH0} {T UW1 L K IH1 T}, you can develop, optimize, and deploy your applications on {JH IY1} {P IY1} {Y UW1} accelerated embedded systems, desktop workstations, enterprise data centers, cloud based platforms and {EY1 CH} {P IY1} {S IY1} supercomputers.
+{T OW1 OW1} {H OW1 OW1} {K OW1 OW1} {M AA1} {K IY1 OW1 OW1}, the Embodiment of Scarlet Devil.
